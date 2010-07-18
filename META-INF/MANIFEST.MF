@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: OFX
+Bundle-SymbolicName: ca.piggott.ofx
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Matthew Piggott
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: ca.piggott.ofx.model,
+ ca.piggott.ofx.parser
